@@ -1,20 +1,21 @@
-# Landing page template
+# Next.js template
 
-Starting template with:
+A starting Next.js template with:
 - React.js
 - Next.js
-- Typescript
 - SCSS
 - Google analytics
-- SSL (via Zeit Now)
+- SSL (via Vercel Now)
 - CI
 - CD
-- Jest tests
 
 ## How to use
 
-```javascript
+```
 npm i -g now
 npm i
 npm run dev
 ```
+
+## API
+Small GO example for deploying with Now/Vercel
